@@ -95,3 +95,16 @@ main{
     padding: 12px 20px 12px 20px;
 }
 
+/* My inspiration styles */
+.my-inspiration-content{
+    margin-top: 88px;
+    text-align: center;
+}
+.my-inspiration iframe {
+    margin-top: 48px;
+    width: 100%; /* Ensures the iframe fills its container */
+    height: 550px; /* Adjust height as needed */
+    border-radius: 16px;
+}
+
+/* My current target */
