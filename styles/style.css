@@ -58,7 +58,6 @@ main{
     background-image: url(../assets/Layer_1.png);
     background-position: right;
     background-repeat:no-repeat;
-    text-align: left;
     align-items: center;
 }
 
@@ -84,7 +83,6 @@ main{
     background-image: url(../assets/Group\ 4.png);
     background-position: right;
     background-repeat:no-repeat;
-    text-align: left;
     align-items: center;
 }
 
@@ -204,3 +202,30 @@ main{
     justify-content: center; 
 
   }
+
+/* footer */
+
+.foot-sec{
+    background-color: #f6f1f1;
+}
+.footer{
+    margin-top: 80px;
+    max-width: 1140px;
+    display: flex;
+    align-items: center;
+}
+.statement{
+    margin-left: 900px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.icons{
+    margin-left: 850px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.icon-image {
+    height: 50px;
+
+}
