@@ -7,6 +7,7 @@
 /* Banner Styles */
 .banner{
     background-image: url(../assets/Hero-bg.png);
+    margin-bottom: 74px;
 
 }
 .banner-content{
@@ -27,3 +28,70 @@
     padding: 21px 24px;
     border-radius: 8px;
 }
+
+/* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* shared style */
+.inner-width{
+    width: 946px;
+}
+.bottom-margin{
+    margin-bottom: 32px;
+}
+/* why web section */
+.web-dev{
+    background-color: rgba(13, 19, 33, 0.02);
+    padding: 80px 97px;
+}
+
+.dev-title{
+    text-align: center;
+}
+
+.reason-1-content{
+    height: 336px;
+    padding: 48px 48px;
+    background-color: white;
+    background-image: url(../assets/Layer_1.png);
+    background-position: right;
+    background-repeat:no-repeat;
+    text-align: left;
+    align-items: center;
+}
+
+.reason-2-content{
+    height: 336px;
+    padding: 48px 48px;
+    background-color: white;
+    background-image: url(../assets/Group\ 3.png);
+    background-position: left;
+    background-repeat:no-repeat;
+    align-items: center;
+}
+.reason-2-text{
+    text-align: left;
+    margin-left: 272px;
+}
+
+
+.reason-3-content{
+    height: 336px;
+    padding: 48px 48px;
+    background-color: white;
+    background-image: url(../assets/Group\ 4.png);
+    background-position: right;
+    background-repeat:no-repeat;
+    text-align: left;
+    align-items: center;
+}
+
+.btn-learn-more{
+    font-weight: 600;
+    font-size: 20px;
+    background-color: white;
+    padding: 12px 20px 12px 20px;
+}
+
