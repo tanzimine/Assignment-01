@@ -213,9 +213,10 @@ main{
     max-width: 1140px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .statement{
-    
+    margin-left: 150px;
     font-size: 20px;
     font-weight: 600;
 }
@@ -225,7 +226,4 @@ main{
     display: flex;
     justify-content: space-evenly;
 }
-.icon-image {
-    height: 50px;
 
-}
