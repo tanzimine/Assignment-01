@@ -215,13 +215,13 @@ main{
     align-items: center;
 }
 .statement{
-    margin-left: 900px;
+    
     font-size: 20px;
     font-weight: 600;
 }
 
 .icons{
-    margin-left: 850px;
+
     display: flex;
     justify-content: space-evenly;
 }
